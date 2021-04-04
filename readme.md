@@ -1,0 +1,1 @@
+The program aims to verify that the 2D ramdom walk always returns to its starting point. 
